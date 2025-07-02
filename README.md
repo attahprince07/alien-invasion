@@ -1,9 +1,11 @@
 # alien-invasion
 **Alien Invasion**
+
 Welcome to Alien Invasion, a classic arcade-style shooter game built using Pygame!
 Pilot your spaceship, dodge enemy fleets, and blast away aliens as they descend from above. The longer you survive, the faster and more intense the action becomes. Think you're up for the challenge?
 
 **About the Game**
+
 Alien Invasion is a fun and interactive space-themed game where you:
   1. Move your ship left and right to dodge enemies
   2. Fire bullets to eliminate waves of aliens
@@ -13,6 +15,7 @@ Alien Invasion is a fun and interactive space-themed game where you:
 Whether you're a casual gamer or someone exploring game development, this project is a great blend of logic, interactivity, and creativity!
 
 **How to Play**
+   
    1. Run the Game: Simply execute python alien_invasion.py
    2. Move Left: Press the Left Arrow key
    3. Move Right: Press the Right Arrow key
@@ -23,6 +26,7 @@ Whether you're a casual gamer or someone exploring game development, this projec
 Your goal: Survive as long as possible by eliminating all alien fleets before they reach the bottom or collide with your ship.
 
 **File Structure Overview**
+
 _File and Description_
 alien_invasion.py	- Main game loop and setup
 settings.py	- Game configurations (screen size, speed, limits, etc.)
@@ -35,9 +39,11 @@ scoreboard.py	- Displays score, level, and lives on screen
 button.py	- "Play" button class and rendering
 
 **Requirements**
+
 To run this game, you'll need:
   1. Python 3.7+
   2. Pygame library (Install via pip: pip install pygame)
 
 **Acknowledgements**
+
 This project was built as part of my programming journey — combining my love for classic games with hands-on coding practice. Huge thanks to the Pygame community and all the resources that made this project possible!
